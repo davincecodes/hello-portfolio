@@ -1,0 +1,96 @@
+.container-fluid {
+	padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.profile-pic {
+	border-radius: 100%;
+}
+
+.profile {
+	padding-top: 125px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.pl-25 {
+	padding-left: 25px;
+}
+
+.pl-50 {
+	padding-left: 50px;
+}
+
+.pl-75 {
+	padding-left: 75px;
+}
+
+.pl-100 {
+	padding-left: 100px;
+}
+
+.w-25 {
+	width: 25%;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.pb-75 {
+	padding-bottom: 75px;
+}
+
+.pr-50 {
+	padding-right: 50px;
+}
+
+.profile-name {
+	padding: 50px 25px;
+}
+
+.tools {
+	padding-top: 200px;
+}
+
+.pt-25 {
+	padding-top: 25px;
+}
+
+.tools-box {
+	padding-top: 75px;
+}
+
+.project-box {
+	padding-top: 75px;
+}
+
+.my-projects {
+	padding-top: 75px;
+}
+
+.about {
+	padding: 0 100px;
+	padding-top: 25px;
+}
+
